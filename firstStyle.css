@@ -1,0 +1,20 @@
+/* selector de etiqueta */
+p{
+    color:rgb(2, 15, 10)
+}
+body{
+    background-color: rgb(214, 221, 221);
+}
+/* selector de clase */
+.egg{
+    background-color: blueviolet;
+    text-align:center;
+}
+/* selector de id */
+#shopping-list{
+    list-style: circle;
+    width: 25%;
+}
+#shopping-list:hover{
+    list-style: disc;
+}
